@@ -16,6 +16,20 @@ You can browse the solutions by problem number or by programming Question. Each 
 
 I welcome any feedback or suggestions on how to improve my solutions or coding skills. You can contact me through GitHub or email. You can also fork this repository and submit a pull request if you have a better or alternative solution to any of the problems.
 
+## Project Euler Profile
+
+I am proud to share my [Project Euler](^1^) profile, which shows my progress and achievements in solving the problems. Project Euler is a website that offers a series of challenging mathematical and computational problems that require both logic and creativity.
+
+To view my profile, you can use this link: [https://projecteuler.net/profile/Vm12708.png](^2^)
+
+Alternatively, you can embed the image of my profile in this README file using this markdown code:
+
+`![Project Euler Profile](https://projecteuler.net/profile/Vm12708.png)`
+
+This will display the image like this:
+
+![Project Euler Profile](https://projecteuler.net/profile/Vm12708.png)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
