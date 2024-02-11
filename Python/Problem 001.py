@@ -5,6 +5,6 @@ def sum_of_multiples(n):
             sum += i
     return sum
 
-n = 1000
-result = sum_of_multiples(n)
+num = 1000
+result = sum_of_multiples(num)
 print(result)
