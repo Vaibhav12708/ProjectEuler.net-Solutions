@@ -1,5 +1,7 @@
+#not a dynamic program
+#Logic is implemented for the predefined matrix
 n=5
-diagnol=[[21,22,23,24,25],[20,7,8,9,10],[19,6,1,2,11],[18,5,4,3,12],[17,16,15,14,13]]
+diagnol=[[21,22,23,24,25],[20,7,8,9,10],[19,6,1,2,11],[18,5,4,3,12],[17,16,15,14,13]]  
 sum1=0
 for i in range(0,n):
     sum1+=diagnol[i][i]
